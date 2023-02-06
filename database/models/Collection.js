@@ -64,5 +64,4 @@ dummyCollection.likes.filter((e) => {
 }).length;
 
 exports.CollectionSchema = CollectionSchema;
-
 exports.dummyCollection = dummyCollection;
